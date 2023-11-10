@@ -1,0 +1,150 @@
+{
+  "users": [
+    {
+      "email": "leo@leo.com",
+      "password": "$2a$10$ovfYV.Fje.Z97XbVCEpWJe1oZVUme46B/Vi6TXnHibl9qWy0ZSCQC",
+      "name": "Leonardo",
+      "id": 1
+    },
+    {
+      "email": "Joao@123.com",
+      "password": "$2a$10$CPLbE6BLXvREX56HcR34Fu/F8x.jcSUCsGuO2HryZXy.qOQrADkP.",
+      "name": "Joao",
+      "id": 2
+    },
+    {
+      "email": "carlos@gmail.com",
+      "password": "$2a$10$NZVI.GBInx.Ry834gPyAOuoPWW0lQH2jtdikCWIPB.uz8zhBlskR6",
+      "name": "Carlos",
+      "id": 3
+    },
+    {
+      "email": "fabio@gmail.com",
+      "password": "$2a$10$FVlL3mgk4G6tLlKPtXs22uqrykI220Qr4e7aLq9MOr9/f6.Mrgc3e",
+      "name": "Fabio",
+      "id": 4
+    }
+  ],
+  "extrato": [
+    {
+      "tipo": "Receita",
+      "classificacao": "Salário",
+      "valor": "R$ 15.000,00",
+      "dataVencimento": "2023-11-05T03:47:11.853Z",
+      "recorrente": "Não",
+      "status": "Efetivado",
+      "descricao": "Salário do mês ",
+      "id": 1
+    },
+    {
+      "tipo": "Despesa",
+      "classificacao": "Entretenimento",
+      "valor": "R$ 150,00",
+      "dataVencimento": "05 / 11 / 2023",
+      "recorrente": "Não",
+      "status": "Efetivado",
+      "descricao": "Farra com amigos",
+      "id": 2
+    },
+    {
+      "tipo": "Receita",
+      "classificacao": "Outros",
+      "valor": "R$ 350,00",
+      "dataVencimento": "05 / 11 / 2023",
+      "recorrente": "Sim",
+      "status": "Efetivado",
+      "descricao": "Testeeekjhirir",
+      "id": 3
+    },
+    {
+      "tipo": "Despesa",
+      "classificacao": "Saúde",
+      "valor": "R$ 3.200,00",
+      "dataVencimento": "05 / 11 / 2023",
+      "recorrente": "Sim",
+      "status": "Efetivado",
+      "descricao": "Plano de saúde familiar",
+      "id": 4
+    },
+    {
+      "tipo": "Receita",
+      "classificacao": "Investimentos",
+      "valor": "R$ 12.000,00",
+      "dataVencimento": "05 / 11 / 2023",
+      "recorrente": "Não",
+      "status": "Efetivado",
+      "descricao": "Ações ",
+      "id": 5
+    },
+    {
+      "tipo": "Despesa",
+      "classificacao": "CartãoDeCrédito",
+      "valor": "R$ 250,00",
+      "dataVencimento": "05 / 11 / 2023",
+      "recorrente": "Não",
+      "status": "Efetivado",
+      "descricao": "Despesas",
+      "id": 6
+    },
+    {
+      "tipo": "Despesa",
+      "classificacao": "Educação",
+      "valor": "R$ 1.250,00",
+      "dataVencimento": "05 / 11 / 2023",
+      "recorrente": "Sim",
+      "status": "Efetivado",
+      "descricao": "Colégio ",
+      "id": 7
+    },
+    {
+      "tipo": "Despesa",
+      "classificacao": "Moradia",
+      "valor": "R$ 2.570,00",
+      "dataVencimento": "05 / 11 / 2023",
+      "recorrente": "Sim",
+      "status": "Efetivado",
+      "descricao": "Aluguel",
+      "id": 8
+    },
+    {
+      "tipo": "Despesa",
+      "classificacao": "Vestuário",
+      "valor": "R$ 125,00",
+      "dataVencimento": "05 / 11 / 2023",
+      "recorrente": "Não",
+      "status": "Efetivado",
+      "descricao": "Roupa",
+      "id": 9
+    },
+    {
+      "tipo": "Despesa",
+      "classificacao": "Saúde",
+      "valor": "R$ 580,00",
+      "dataVencimento": "05 / 11 / 2023",
+      "recorrente": "Sim",
+      "status": "Efetivado",
+      "descricao": "Plano de saúde ",
+      "id": 10
+    },
+    {
+      "tipo": "Despesa",
+      "classificacao": "Veículo",
+      "valor": "R$ 4.590,00",
+      "dataVencimento": "05 / 11 / 2023",
+      "recorrente": "Não",
+      "status": "Efetivado",
+      "descricao": "Pneus",
+      "id": 11
+    },
+    {
+      "tipo": "Receita",
+      "classificacao": "Saúde",
+      "valor": "R$ 2.500,00",
+      "dataVencimento": "04 / 12 / 2023",
+      "recorrente": "Não",
+      "status": "Pendente",
+      "descricao": "Salário do mês ",
+      "id": 12
+    }
+  ]
+}
